@@ -14,6 +14,7 @@
 		45AADD9D2C196EE500DFAD20 /* XFormTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45AADD9C2C196EE500DFAD20 /* XFormTests.swift */; };
 		45AADDA72C196EE500DFAD20 /* XFormUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45AADDA62C196EE500DFAD20 /* XFormUITests.swift */; };
 		45AADDA92C196EE500DFAD20 /* XFormUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45AADDA82C196EE500DFAD20 /* XFormUITestsLaunchTests.swift */; };
+		45AADDB62C19731600DFAD20 /* XForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45AADDB52C19731600DFAD20 /* XForm.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		45AADDA22C196EE500DFAD20 /* XFormUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XFormUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		45AADDA62C196EE500DFAD20 /* XFormUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XFormUITests.swift; sourceTree = "<group>"; };
 		45AADDA82C196EE500DFAD20 /* XFormUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XFormUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		45AADDB52C19731600DFAD20 /* XForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XForm.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				45AADD8A2C196EE400DFAD20 /* XFormApp.swift */,
 				45AADD8C2C196EE400DFAD20 /* ContentView.swift */,
+				45AADDB52C19731600DFAD20 /* XForm.swift */,
 				45AADD8E2C196EE500DFAD20 /* Assets.xcassets */,
 				45AADD902C196EE500DFAD20 /* XForm.entitlements */,
 				45AADD912C196EE500DFAD20 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				45AADD8D2C196EE400DFAD20 /* ContentView.swift in Sources */,
+				45AADDB62C19731600DFAD20 /* XForm.swift in Sources */,
 				45AADD8B2C196EE400DFAD20 /* XFormApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
